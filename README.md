@@ -24,7 +24,7 @@ Using [puma](http://puma.io) you can do
 puma config.ru
 ```
 
-Using the params @evanphx was so kind to share in his talk
+Using the params [@evanphx](http://twitter.com/evanphx) was so kind to share in his talk
 ```
 puma -q -t 10 -w 4 config.ru
 ```
